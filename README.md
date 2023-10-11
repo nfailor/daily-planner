@@ -10,7 +10,7 @@ This webpage is designed to display a daily 9-5 schedule that allows you to plac
 I used HTML and CSS to create the header and nav contents of this webpage and javascript (specifically Jquery) to create the daily planner content. Git/Github were used as version control and deployed to Github Pages.
 
 ## INSTALLATION
-This is a website only and does not need installation. it is currently hosted in github and you can access it at Github; XX
+This is a website only and does not need installation. it is currently hosted in github and you can access it at Github; https://nfailor.github.io/daily-planner/
 
 ## USAGE
 This webpage is used to save and review planned events in a daily planner, which is reactive to the current time. See webpage below:
